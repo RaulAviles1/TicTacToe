@@ -1,0 +1,26 @@
+body {
+  background-color: #2E4172;
+  font-family: Raleway;
+  font-size:24px;
+  color:white;
+  text-align:center;
+}
+h1{
+  padding:25px;
+}
+table{
+  table-layout:fixed;
+  width: 200px !important;
+  height: 200px !important;
+ margin: auto;
+}
+tr{
+  height: 66px !important;
+}
+button{
+  width: 100px;
+  background-color:#61539;
+}
+footer{
+  padding:25px;
+}
